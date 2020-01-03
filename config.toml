@@ -1,4 +1,4 @@
 baseURL = "http://makr.in/"
 languageCode = "en-us"
 title = "Makr.in - Only make."
-theme = "infinity"
+theme = "infinity-hugo"
